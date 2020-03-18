@@ -1,2 +1,2 @@
 # stepik_selenium
-Hometasks
+Hometasks made during the course
